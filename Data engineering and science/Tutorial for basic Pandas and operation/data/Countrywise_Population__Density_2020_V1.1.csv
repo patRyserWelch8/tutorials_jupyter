@@ -1,0 +1,196 @@
+,SNO,Country_Name,Population2020,World_share_Percent,Land_Area_KM,Country_Code,Indicator_Name,Total_Population2018,Population_density2018,Population_density2020
+0,1,China,1439323776,18.55963,9388211,CHN,Population density (people per sq. km of land area),1392730000,148.3488333,153.3118265
+1,2,India,1380004385,17.79472,2973190,IND,Population density (people per sq. km of land area),1352617328,454.9380726,464.1494102
+2,3,United States,331002651,4.26818,9147420,USA,Population density (people per sq. km of land area),326687501,35.76608858,36.1853562
+3,4,Indonesia,273523615,3.527,1811570,IDN,Population density (people per sq. km of land area),267663435,147.7521901,150.9870527
+4,5,Pakistan,220892340,2.84834,770880,PAK,Population density (people per sq. km of land area),212215030,275.2893187,286.545688
+5,6,Brazil,212559417,2.74089,8358140,BRA,Population density (people per sq. km of land area),209469333,25.06171624,25.43142577
+6,7,Nigeria,206139589,2.65811,910770,NGA,Population density (people per sq. km of land area),195874740,215.064989,226.3355062
+7,8,Bangladesh,164689383,2.12362,130170,BGD,Population density (people per sq. km of land area),161356039,1239.579312,1265.186932
+8,9,Russia,145934462,1.88178,16376870,,,,,8.91101059
+9,10,Mexico,128932753,1.66255,1943950,MEX,Population density (people per sq. km of land area),126190788,64.91462641,66.32513851
+10,11,Japan,126476461,1.63087,364555,JPN,Population density (people per sq. km of land area),126529100,347.0734584,346.9338262
+11,12,Ethiopia,114963588,1.48242,1000000,ETH,Population density (people per sq. km of land area),109224559,109.224559,114.963588
+12,13,Philippines,109581078,1.41301,298170,PHL,Population density (people per sq. km of land area),106651922,357.6883053,367.5120837
+13,14,Egypt,102334404,1.31957,995450,,,,,102.8021538
+14,15,Vietnam,97338579,1.25515,310070,VNM,Population density (people per sq. km of land area),95540395,308.1252459,313.9245299
+15,16,DR Congo,89561403,1.15487,2267050,,,,,39.50570257
+16,17,Turkey,84339067,1.08753,769630,TUR,Population density (people per sq. km of land area),82319724,106.9601289,109.583913
+17,18,Iran,83992949,1.08306,1628550,,,,,51.57529643
+18,19,Germany,83783942,1.08037,348560,DEU,Population density (people per sq. km of land area),82905782,237.3709698,240.3716491
+19,20,Thailand,69799978,0.90005,510890,THA,Population density (people per sq. km of land area),69428524,135.8972068,136.6242792
+20,21,United Kingdom,67886011,0.87537,241930,GBR,Population density (people per sq. km of land area),66460344,274.8273922,280.6018724
+21,22,France,65273511,0.84168,547557,FRA,Population density (people per sq. km of land area),66977107,122.3383957,119.2086139
+22,23,Italy,60461826,0.77964,294140,ITA,Population density (people per sq. km of land area),60421760,205.4507479,205.5545863
+23,24,Tanzania,59734218,0.77025,885800,TZA,Population density (people per sq. km of land area),56318348,63.5790788,67.43533303
+24,25,South Africa,59308690,0.76477,1213090,ZAF,Population density (people per sq. km of land area),57779622,47.63011978,48.89059344
+25,26,Myanmar,54409800,0.7016,653290,MMR,Population density (people per sq. km of land area),53708395,82.23861548,83.28583018
+26,27,Kenya,53771296,0.69336,569140,KEN,Population density (people per sq. km of land area),51393010,90.29941666,94.478153
+27,28,South Korea,51269185,0.6611,97230,,,,,527.2980047
+28,29,Colombia,50882891,0.65612,1109500,COL,Population density (people per sq. km of land area),49648685,44.74870212,45.8611005
+29,30,Spain,46754778,0.60289,498800,ESP,Population density (people per sq. km of land area),46796540,93.52905826,93.73451885
+30,31,Uganda,45741007,0.58982,199810,UGA,Population density (people per sq. km of land area),42723139,213.0617345,228.9225114
+31,32,Argentina,45195774,0.58279,2736690,ARG,Population density (people per sq. km of land area),44494502,16.2585101,16.51475834
+32,33,Algeria,43851044,0.56545,2381740,DZA,Population density (people per sq. km of land area),42228429,17.73007507,18.41134801
+33,34,Sudan,43849260,0.56542,1765048,SDN,Population density (people per sq. km of land area),41801533,,24.84309775
+34,35,Ukraine,43733762,0.56393,579320,UKR,Population density (people per sq. km of land area),44622516,77.02966735,75.49154526
+35,36,Iraq,40222493,0.51866,434320,IRQ,Population density (people per sq. km of land area),38433600,88.53057004,92.61027123
+36,37,Afghanistan,38928346,0.50197,652860,AFG,Population density (people per sq. km of land area),37172386,56.93776001,59.62740251
+37,38,Poland,37846611,0.48802,306230,POL,Population density (people per sq. km of land area),37974750,124.0358862,123.5888417
+38,39,Canada,37742154,0.48667,9093510,CAN,Population density (people per sq. km of land area),37057765,4.075308214,4.150449496
+39,40,Morocco,36910560,0.47595,446300,MAR,Population density (people per sq. km of land area),36029138,80.72851893,82.703473
+40,41,Saudi Arabia,34813871,0.44891,2149690,SAU,Population density (people per sq. km of land area),33699947,15.67665431,16.19483321
+41,42,Uzbekistan,33469203,0.43157,425400,UZB,Population density (people per sq. km of land area),32955400,77.46920545,78.67701693
+42,43,Peru,32971854,0.42516,1280000,PER,Population density (people per sq. km of land area),31989256,24.99160625,25.75926094
+43,44,Angola,32866272,0.4238,1246700,AGO,Population density (people per sq. km of land area),30809762,24.71305206,26.3626149
+44,45,Malaysia,32365999,0.41735,328550,MYS,Population density (people per sq. km of land area),31528585,95.96282149,98.51163902
+45,46,Mozambique,31255435,0.40303,786380,MOZ,Population density (people per sq. km of land area),29495962,37.50853531,39.74596887
+46,47,Ghana,31072940,0.40068,227540,GHA,Population density (people per sq. km of land area),29767108,130.8214292,136.560341
+47,48,Yemen,29825964,0.3846,527970,,,,,56.49177794
+48,49,Nepal,29136808,0.37571,143350,NPL,Population density (people per sq. km of land area),28087871,195.9391071,203.2564213
+49,50,Venezuela,28435940,0.36667,882050,,,,,32.23846721
+50,51,Madagascar,27691018,0.35707,581795,MDG,Population density (people per sq. km of land area),26262368,45.13985562,47.59583358
+51,52,Cameroon,26545863,0.3423,472710,CMR,Population density (people per sq. km of land area),25216237,53.34398891,56.15676207
+52,53,Côte d'Ivoire,26378274,0.34014,318000,,,,,82.95054717
+53,54,North Korea,25778816,0.33241,120410,,,,,214.0919857
+54,55,Australia,25499884,0.32881,7682300,AUS,Population density (people per sq. km of land area),24982688,3.249129487,3.319303334
+55,56,Niger,24206644,0.31214,1266700,NER,Population density (people per sq. km of land area),22442948,17.71765059,19.11000553
+56,57,Sri Lanka,21413249,0.27612,62710,LKA,Population density (people per sq. km of land area),21670000,345.558922,341.4646627
+57,58,Burkina Faso,20903273,0.26954,273600,BFA,Population density (people per sq. km of land area),19751535,72.19128289,76.40085161
+58,59,Mali,20250833,0.26113,1220190,MLI,Population density (people per sq. km of land area),19077690,15.63501586,16.59645875
+59,60,Romania,19237691,0.24806,230170,ROU,Population density (people per sq. km of land area),19466145,84.63984701,83.580358
+60,61,Malawi,19129952,0.24667,94280,MWI,Population density (people per sq. km of land area),18143315,192.4407616,202.9057276
+61,62,Chile,19116201,0.2465,743532,CHL,Population density (people per sq. km of land area),18729160,25.18944607,25.70999096
+62,63,Kazakhstan,18776707,0.24212,2699700,KAZ,Population density (people per sq. km of land area),18272430,6.769825907,6.955108716
+63,64,Zambia,18383955,0.23706,743390,ZMB,Population density (people per sq. km of land area),17351822,23.3414789,24.72989279
+64,65,Guatemala,17915568,0.23102,107160,GTM,Population density (people per sq. km of land area),17247807,160.9537794,167.1852184
+65,66,Ecuador,17643054,0.2275,248360,ECU,Population density (people per sq. km of land area),17084357,68.78868175,71.03822677
+66,67,Syria,17500658,0.22567,183630,,,,,95.30391548
+67,68,Netherlands,17134872,0.22095,33720,NLD,Population density (people per sq. km of land area),17231624,511.4579104,508.1516014
+68,69,Senegal,16743927,0.21591,192530,SEN,Population density (people per sq. km of land area),15854360,82.34747832,86.96788552
+69,70,Cambodia,16718965,0.21559,176520,KHM,Population density (people per sq. km of land area),16249798,92.05641287,94.71428167
+70,71,Chad,16425864,0.21181,1259200,TCD,Population density (people per sq. km of land area),15477751,12.29173364,13.04468234
+71,72,Somalia,15893222,0.20494,627340,SOM,Population density (people per sq. km of land area),15008154,23.9234769,25.33430357
+72,73,Zimbabwe,14862924,0.19165,386850,ZWE,Population density (people per sq. km of land area),14439018,37.32459093,38.42037999
+73,74,Guinea,13132795,0.16934,245720,GIN,Population density (people per sq. km of land area),12414318,50.52221227,53.44617858
+74,75,Rwanda,12952218,0.16701,24670,RWA,Population density (people per sq. km of land area),12301939,498.6598703,525.0189704
+75,76,Benin,12123200,0.15632,112760,BEN,Population density (people per sq. km of land area),11485048,101.8539198,107.5133026
+76,77,Burundi,11890784,0.15333,25680,BDI,Population density (people per sq. km of land area),11175378,435.178271,463.0367601
+77,78,Tunisia,11818619,0.1524,155360,TUN,Population density (people per sq. km of land area),11565204,74.44132338,76.07247039
+78,79,Bolivia,11673021,0.15052,1083300,BOL,Population density (people per sq. km of land area),11353142,10.48014585,10.77542786
+79,80,Belgium,11589623,0.14944,30280,BEL,Population density (people per sq. km of land area),11433256,377.2149273,382.7484478
+80,81,Haiti,11402528,0.14703,27560,HTI,Population density (people per sq. km of land area),11123176,403.5985486,413.734688
+81,82,Cuba,11326616,0.14605,106440,CUB,Population density (people per sq. km of land area),11338138,108.9995962,106.413153
+82,83,South Sudan,11193725,0.14434,610952,SSD,Population density (people per sq. km of land area),10975920,,18.32177487
+83,84,Dominican Republic,10847910,0.13988,48320,DOM,Population density (people per sq. km of land area),10627165,219.9785759,224.5014487
+84,85,Czech Republic (Czechia),10708981,0.13809,77240,,,,,138.6455334
+85,86,Greece,10423054,0.1344,128900,GRC,Population density (people per sq. km of land area),10731726,83.22473235,80.86155159
+86,87,Jordan,10203134,0.13157,88780,JOR,Population density (people per sq. km of land area),9956011,112.1424983,114.9260419
+87,88,Portugal,10196709,0.13148,91590,PRT,Population density (people per sq. km of land area),10283822,112.2394535,111.3299378
+88,89,Azerbaijan,10139177,0.13074,82658,AZE,Population density (people per sq. km of land area),9939800,120.2653199,122.6641946
+89,90,Sweden,10099265,0.13023,410340,SWE,Population density (people per sq. km of land area),10175214,25.00104343,24.61194375
+90,91,Honduras,9904607,0.12772,111890,HND,Population density (people per sq. km of land area),9587522,85.68703191,88.52093127
+91,92,United Arab Emirates,9890402,0.12753,83600,ARE,Population density (people per sq. km of land area),9630959,135.6091101,118.306244
+92,93,Hungary,9660351,0.12457,90530,HUN,Population density (people per sq. km of land area),9775564,107.9066055,106.7088368
+93,94,Tajikistan,9537645,0.12298,139960,TJK,Population density (people per sq. km of land area),9100837,65.57271417,68.14550586
+94,95,Belarus,9449323,0.12185,202910,BLR,Population density (people per sq. km of land area),9483499,46.7287999,46.56903553
+95,96,Austria,9006398,0.11613,82409,AUT,Population density (people per sq. km of land area),8840521,107.2069267,109.2890097
+96,97,Papua New Guinea,8947024,0.11537,452860,PNG,Population density (people per sq. km of land area),8606316,19.00436338,19.75671068
+97,98,Serbia,8737371,0.11267,87460,SRB,Population density (people per sq. km of land area),6982604,79.83174022,99.90133775
+98,99,Israel,8655535,0.11161,21640,ISR,Population density (people per sq. km of land area),8882800,410.5268022,399.978512
+99,100,Switzerland,8654622,0.1116,39516,CHE,Population density (people per sq. km of land area),8513227,215.5213784,219.0156392
+100,101,Togo,8278724,0.10675,54390,TGO,Population density (people per sq. km of land area),7889094,145.0467733,152.2104063
+101,102,Sierra Leone,7976983,0.10286,72180,SLE,Population density (people per sq. km of land area),7650154,105.987171,110.5151427
+102,103,Laos,7275560,0.09382,230800,,,,,31.52322357
+103,104,Paraguay,7132538,0.09197,397300,PRY,Population density (people per sq. km of land area),6956071,17.50835892,17.95252454
+104,105,Bulgaria,6948445,0.0896,108560,BGR,Population density (people per sq. km of land area),7025037,64.70353721,64.00557296
+105,106,Libya,6871292,0.0886,1759540,LBY,Population density (people per sq. km of land area),6678567,3.795632381,3.90516385
+106,107,Lebanon,6825445,0.08801,10230,LBN,Population density (people per sq. km of land area),6848925,669.4941349,667.1989247
+107,108,Nicaragua,6624554,0.08542,120340,NIC,Population density (people per sq. km of land area),6465513,53.72704836,55.0486455
+108,109,Kyrgyzstan,6524195,0.08413,191800,,,,,34.01561522
+109,110,El Salvador,6486205,0.08364,20720,SLV,Population density (people per sq. km of land area),6420744,309.8814672,313.0407819
+110,111,Turkmenistan,6031200,0.07777,469930,TKM,Population density (people per sq. km of land area),5850908,12.45059477,12.83425191
+111,112,Singapore,5850342,0.07544,700,SGP,Population density (people per sq. km of land area),5638676,7952.998418,8357.631429
+112,113,Denmark,5792202,0.07469,42430,DNK,Population density (people per sq. km of land area),5793636,138.0673017,136.5119491
+113,114,Finland,5540720,0.07145,303890,FIN,Population density (people per sq. km of land area),5515525,18.15685565,18.23264997
+114,115,Congo,5518087,0.07115,341500,,,,,16.15838067
+115,116,Slovakia,5459642,0.0704,48088,,,,,113.5343953
+116,117,Norway,5421241,0.06991,365268,NOR,Population density (people per sq. km of land area),5311916,14.55491954,14.84181751
+117,118,Oman,5106626,0.06585,309500,OMN,Population density (people per sq. km of land area),4829483,15.6041454,16.49959935
+118,119,State of Palestine,5101414,0.06578,6020,,,,,847.4109635
+119,120,Costa Rica,5094118,0.06569,51060,CRI,Population density (people per sq. km of land area),4999441,97.91306306,99.76729338
+120,121,Liberia,5057681,0.06522,96320,LBR,Population density (people per sq. km of land area),4818977,50.03090739,52.50914659
+121,122,Ireland,4937786,0.06367,68890,IRL,Population density (people per sq. km of land area),4867309,70.45298302,71.67638264
+122,123,Central African Republic,4829767,0.06228,622980,CAF,Population density (people per sq. km of land area),4666377,7.490412212,7.752683874
+123,124,New Zealand,4822233,0.06218,263310,NZL,Population density (people per sq. km of land area),4841000,18.55417569,18.31389997
+124,125,Mauritania,4649658,0.05996,1030700,MRT,Population density (people per sq. km of land area),4403319,4.272163578,4.511165228
+125,126,Panama,4314767,0.05564,74340,PAN,Population density (people per sq. km of land area),4176873,56.18607748,58.04098736
+126,127,Kuwait,4270571,0.05507,17820,KWT,Population density (people per sq. km of land area),4137309,232.1722222,239.6504489
+127,128,Croatia,4105267,0.05294,55960,HRV,Population density (people per sq. km of land area),4087843,73.077198,73.36073981
+128,129,Moldova,4033963,0.05202,32850,MDA,Population density (people per sq. km of land area),2706049,123.5198035,122.7994825
+129,130,Georgia,3989167,0.05144,69490,GEO,Population density (people per sq. km of land area),3726549,65.27520207,57.40634624
+130,131,Eritrea,3546421,0.04573,101000,ERI,Population density (people per sq. km of land area),,,35.11307921
+131,132,Uruguay,3473730,0.04479,175020,URY,Population density (people per sq. km of land area),3449299,19.70802765,19.84761742
+132,133,Bosnia and Herzegovina,3280819,0.04231,51000,BIH,Population density (people per sq. km of land area),3323929,64.92048828,64.32978431
+133,134,Mongolia,3278290,0.04227,1553560,MNG,Population density (people per sq. km of land area),3170208,2.040608667,2.110179201
+134,135,Armenia,2963243,0.03821,28470,ARM,Population density (people per sq. km of land area),2951776,103.6802248,104.0829996
+135,136,Jamaica,2961167,0.03818,10830,JAM,Population density (people per sq. km of land area),2934855,270.9930748,273.4226223
+136,137,Qatar,2881053,0.03715,11610,QAT,Population density (people per sq. km of land area),2781677,239.5931955,248.1527132
+137,138,Albania,2877797,0.03711,27400,ALB,Population density (people per sq. km of land area),2866376,104.6122628,105.0290876
+138,139,Lithuania,2722289,0.0351,62674,LTU,Population density (people per sq. km of land area),2801543,44.53135138,43.43569901
+139,140,Namibia,2540905,0.03276,823290,NAM,Population density (people per sq. km of land area),2448255,2.973745582,3.086281869
+140,141,Gambia,2416668,0.03116,10120,,,,,238.8011858
+141,142,Botswana,2351627,0.03032,566730,BWA,Population density (people per sq. km of land area),2254126,3.977424876,4.149466236
+142,143,Gabon,2225734,0.0287,257670,GAB,Population density (people per sq. km of land area),2119275,8.224764233,8.637924477
+143,144,Lesotho,2142249,0.02762,30360,LSO,Population density (people per sq. km of land area),2108132,69.43781291,70.56156126
+144,145,North Macedonia,2083374,0.02686,25220,MKD,Population density (people per sq. km of land area),2082958,82.59151467,82.60800952
+145,146,Slovenia,2078938,0.02681,20140,SVN,Population density (people per sq. km of land area),2073894,102.6398595,103.2243297
+146,147,Guinea-Bissau,1968001,0.02538,28120,GNB,Population density (people per sq. km of land area),1874309,66.65394737,69.98581081
+147,148,Latvia,1886198,0.02432,62200,LVA,Population density (people per sq. km of land area),1927174,30.98330653,30.32472669
+148,149,Bahrain,1701575,0.02194,760,BHR,Population density (people per sq. km of land area),1569439,2017.2737,2238.914474
+149,150,Equatorial Guinea,1402985,0.01809,28050,GNQ,Population density (people per sq. km of land area),1308974,46.66573975,50.01729055
+150,151,Trinidad and Tobago,1399488,0.01805,5130,TTO,Population density (people per sq. km of land area),1389858,270.9274854,272.8046784
+151,152,Estonia,1326535,0.01711,42390,EST,Population density (people per sq. km of land area),1321977,30.38610536,31.29358339
+152,153,Timor-Leste,1318445,0.017,14870,TLS,Population density (people per sq. km of land area),1267972,85.27047747,88.66476126
+153,154,Mauritius,1271768,0.0164,2030,MUS,Population density (people per sq. km of land area),1265303,623.3019704,626.4866995
+154,155,Cyprus,1207359,0.01557,9240,CYP,Population density (people per sq. km of land area),1189265,128.7083333,130.6665584
+155,156,Eswatini,1160164,0.01496,17200,SWZ,Population density (people per sq. km of land area),1136191,66.05761628,67.45139535
+156,157,Djibouti,988000,0.01274,23180,DJI,Population density (people per sq. km of land area),958920,41.36842105,42.62295082
+157,158,Fiji,896445,0.01156,18270,FJI,Population density (people per sq. km of land area),883483,48.35703339,49.06650246
+158,159,Comoros,869601,0.01121,1861,COM,Population density (people per sq. km of land area),832322,447.2444775,467.2761956
+159,160,Guyana,786552,0.01014,196850,GUY,Population density (people per sq. km of land area),779004,3.957348235,3.995692151
+160,161,Bhutan,771608,0.00995,38117,BTN,Population density (people per sq. km of land area),754394,19.77752777,20.2431461
+161,162,Solomon Islands,686884,0.00886,27990,SLB,Population density (people per sq. km of land area),652858,23.32468739,24.54033583
+162,163,Montenegro,628066,0.0081,13450,MNE,Population density (people per sq. km of land area),622227,46.27100372,46.69635688
+163,164,Luxembourg,625978,0.00807,2590,LUX,Population density (people per sq. km of land area),607950,250.0938272,241.6903475
+164,165,Suriname,586632,0.00756,156000,SUR,Population density (people per sq. km of land area),575991,3.69225,3.760461538
+165,166,Cabo Verde,555987,0.00717,4030,CPV,Population density (people per sq. km of land area),543767,134.9297767,137.9620347
+166,167,Maldives,540544,0.00697,300,MDV,Population density (people per sq. km of land area),515696,1718.986667,1801.813333
+167,168,Malta,441543,0.00569,320,MLT,Population density (people per sq. km of land area),484630,1511.03125,1379.821875
+168,169,Brunei,437479,0.00564,5270,,,,,83.01309298
+169,170,Belize,397628,0.00513,22810,BLZ,Population density (people per sq. km of land area),383071,16.79399386,17.43217887
+170,171,Bahamas,393244,0.00507,10010,,,,,39.28511489
+171,172,Iceland,341243,0.0044,100250,ISL,Population density (people per sq. km of land area),352721,3.526922693,3.4039202
+172,173,Vanuatu,307145,0.00396,12190,VUT,Population density (people per sq. km of land area),292680,24.00984413,25.19647252
+173,174,Barbados,287375,0.00371,430,BRB,Population density (people per sq. km of land area),286641,666.6069767,668.3139535
+174,175,Sao Tome & Principe,219159,0.00283,960,,,,,228.290625
+175,176,Samoa,198414,0.00256,2830,WSM,Population density (people per sq. km of land area),196130,69.30388693,70.11095406
+176,177,Saint Lucia,183627,0.00237,610,,,,,301.0278689
+177,178,Kiribati,119449,0.00154,810,KIR,Population density (people per sq. km of land area),115847,143.0209877,147.4679012
+178,179,Micronesia,115023,0.00148,700,,,,,164.3185714
+179,180,Grenada,112523,0.00145,340,GRD,Population density (people per sq. km of land area),111454,327.8058824,330.95
+180,181,St. Vincent & Grenadines,110940,0.00143,390,,,,,284.4615385
+181,182,Tonga,105695,0.00136,720,TON,Population density (people per sq. km of land area),103197,143.3291667,146.7986111
+182,183,Seychelles,98347,0.00127,460,SYC,Population density (people per sq. km of land area),96762,210.3521739,213.7978261
+183,184,Antigua and Barbuda,97929,0.00126,440,ATG,Population density (people per sq. km of land area),96286,218.8318182,222.5659091
+184,185,Andorra,77265,0.001,470,AND,Population density (people per sq. km of land area),77006,163.8425532,164.393617
+185,186,Dominica,71986,0.00093,750,DMA,Population density (people per sq. km of land area),71625,95.5,95.98133333
+186,187,Marshall Islands,59190,0.00076,180,MHL,Population density (people per sq. km of land area),58413,324.5166667,328.8333333
+187,188,Saint Kitts & Nevis,53199,0.00069,260,,,,,204.6115385
+188,189,Monaco,39242,0.00051,1,MCO,Population density (people per sq. km of land area),38682,,39242
+189,190,Liechtenstein,38128,0.00049,160,LIE,Population density (people per sq. km of land area),37910,236.9375,238.3
+190,191,San Marino,33931,0.00044,60,SMR,Population density (people per sq. km of land area),33785,563.0833333,565.5166667
+191,192,Palau,18094,0.00023,460,PLW,Population density (people per sq. km of land area),17907,38.92826087,39.33478261
+192,193,Tuvalu,11792,0.00015,30,TUV,Population density (people per sq. km of land area),11508,383.6,393.0666667
+193,194,Nauru,10824,0.00014,20,NRU,Population density (people per sq. km of land area),12704,635.2,541.2
+194,195,Holy See,801,1.00E-05,0,,,,,0
